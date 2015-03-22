@@ -1,4 +1,6 @@
-LOGICRIME: I just wanted to make sure this code has a home, since Google Code is closing down. Note that not only is this not my code, but I haven't contributed to it in any way. It is a handy thing though, and it'd be a damn shame to see it go.
+LOGICRIME: I just wanted to make sure this code has a home, since Google Code is closing down.
+Note that not only is this not my code, but I haven't contributed to it in any way. 
+It is a handy thing though, and it'd be a damn shame to see it go.
 
 Diff, Match and Patch Library
 http://code.google.com/p/google-diff-match-patch/
